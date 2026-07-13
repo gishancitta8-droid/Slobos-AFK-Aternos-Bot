@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VortexSMP-vmHv.aternos.me",
-    "port": 21888,
+    "ip": "ZeroCastleSMP.aternos.me",
+    "port": 36132,
     "version": "",
     "try-creative": false
   },

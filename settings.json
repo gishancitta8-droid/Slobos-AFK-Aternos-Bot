@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Zerocastle",
-    "password": "",
+    "username": "24/7BOT",
+    "password": "Hello",
     "type": "offline"
   },
   "server": {
-    "ip": "zerocastle.minekeep.gg",
-    "port": 36132,
-    "version": "",
+    "ip": "BigBoiSMP2.aternos.me:14000",
+    "port": 14000,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
